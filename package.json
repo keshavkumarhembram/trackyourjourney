@@ -1,0 +1,26 @@
+{
+  "name": "hacknitr-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon run app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavkumarhembram/trackyourjourney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavkumarhembram/trackyourjourney/issues"
+  },
+  "homepage": "https://github.com/keshavkumarhembram/trackyourjourney#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
